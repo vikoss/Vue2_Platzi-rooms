@@ -34,6 +34,10 @@ body {
   @apply block text-grey-darker text-xs font-bold mb-2 uppercase;
 }
 
+.input__label__toggle {
+  @apply text-grey-darker text-xs font-bold uppercase;
+}
+
 /** Buttons */
 .btn {
   @apply bg-white text-grey-darkest font-semibold py-2 px-4 border border-grey-light rounded
